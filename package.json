@@ -1,0 +1,17 @@
+{
+  "name": "insertionsort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "insertionSort.js",
+  "scripts": {
+    "test": "mocha insertionSortSpec"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.0.1"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
